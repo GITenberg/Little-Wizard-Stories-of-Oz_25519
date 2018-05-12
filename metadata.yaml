@@ -1,0 +1,59 @@
+_repo: Little-Wizard-Stories-of-Oz_25519
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+covers:
+- cover_type: archival
+  image_path: 25519-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Fitzgerald, Capt. Hugh
+    - Akers, Floyd
+    - Fitzgerald, Hugh
+    - Baum, Lyman Frank
+    - Bancroft, Laura
+    - Cooke, John Estes
+    - Metcalf, Suzanne
+    - Van Dyne, Edith
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: Six stories featuring Dorothy, Toto, the Wizard, the Cowardly Lion, the
+  Scarecrow, and the Tin Woodman. "Also included are adventures with Tiktok, the Clockwork
+  Man the always ravenous Hungry Tiger the amazing Jack Pumpkinhead the incredible
+  wooden Sawhorse and the magical princess Ozma of Oz. Discover how Dorothy and Toto
+  escape from under the power of the terrible giant, Crinklink, join wise Princess
+  Ozma and the Wizard as they match wits with three mischievous Imps follow the adventures
+  of Jack Pumpkinhead and the Sawhorse as they brave a great, gloomy forest to save
+  two lost children"--Publisher description.
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2008-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcc 'PZ'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- !lcsh 'Children''s stories, American'
+- !lcsh 'Short stories'
+tableOfContents: The Cowardly Lion and the Hungry Tiger -- Little Dorothy and Toto
+  -- Tiktok and the Nome King -- Ozma and the Little Wizard -- Jack Pumpkinhead and
+  the Sawhorse -- The Scarecrow and the Tin Woodman.
+title: Little Wizard Stories of Oz
+url: http://www.gutenberg.org/ebooks/25519
